@@ -6,3 +6,6 @@
 *.tiff
 *.bmp
 *.webp
+
+# Ignore dataset
+Dataset/
