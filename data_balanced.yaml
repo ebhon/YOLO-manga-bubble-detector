@@ -1,0 +1,14 @@
+
+path: c:\Users\handw\Documents\Portfolio-FTDS\YOLO-manga-bubble-detector\Dataset
+train: images/train
+val: images/val
+
+names:
+    0: bubble
+    1: narration
+    2: other
+    3: text
+    4: ui
+
+# Class weights to address imbalance
+class_weights: [0.01, 0.05, 0.79, 1.0]

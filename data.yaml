@@ -6,4 +6,5 @@ val: images/val
 names:
     0: bubble
     1: narration
-    2: ui
+    2: other
+    3: ui
