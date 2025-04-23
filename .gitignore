@@ -6,7 +6,13 @@
 *.tiff
 *.bmp
 *.webp
+*.pt
+*.json
 
-# Ignore dataset
+# Ignore folders
 Dataset/
 label-studio-ml-backend/
+auto-annotation/
+ml-model
+path/
+runs/
