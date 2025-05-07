@@ -10,9 +10,12 @@
 *.json
 
 # Ignore folders
-Dataset/
+ORIGINAL FILES/
 label-studio-ml-backend/
 auto-annotation/
 ml-model
 path/
 runs/
+predictions/
+data/
+__pycache__/
