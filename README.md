@@ -48,10 +48,31 @@ A YOLOv8-based detector for manga speech bubbles and text boxes. This project us
 
 ## Installation
 
+### Option 1: Install from GitHub
+
+```bash
+pip install git+https://github.com/handw/YOLO-manga-bubble-detector.git
+```
+
+### Option 2: Clone and Install Locally
+
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/manga-bubble-detector.git
-cd manga-bubble-detector
+git clone https://github.com/handw/YOLO-manga-bubble-detector.git
+cd YOLO-manga-bubble-detector
+```
+
+2. Install in development mode:
+```bash
+pip install -e .
+```
+
+### Option 3: Manual Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/handw/YOLO-manga-bubble-detector.git
+cd YOLO-manga-bubble-detector
 ```
 
 2. Install dependencies:
