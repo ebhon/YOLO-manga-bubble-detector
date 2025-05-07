@@ -19,3 +19,4 @@ runs/
 predictions/
 data/
 __pycache__/
+models/
